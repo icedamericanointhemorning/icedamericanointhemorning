@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @icedamericanointhemorning
 - 👀 I’m interested in learning how to write functions
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on idea geheration
+- 💞️ I’m looking to collaborate on idea generation
 
 <!---
 icedamericanointhemorning/icedamericanointhemorning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
